@@ -1,2 +1,2 @@
-# hello-world
+# ssm-test
 Used for testing and learning
